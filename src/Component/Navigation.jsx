@@ -12,7 +12,7 @@ export function Navigation({ user }) {
                 <GraduationCap className="text-white h-4 w-4" />
               </div>
               <span className="font-bold text-xl text-slate-900 dark:text-slate-100">
-                EduAnalyze
+                SikshaAI
               </span>
             </Link>
           </div>
