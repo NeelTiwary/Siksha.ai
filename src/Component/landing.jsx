@@ -152,7 +152,7 @@ export default function Landing() {
           <div className="text-center">
             {/* Tagline */}
             <div className="inline-block mb-8 glass rounded-full px-5 py-2 text-emerald-300 hover:bg-emerald-500/30 border border-emerald-500/30 hover-scale shadow-lg shadow-emerald-500/10 transition-all duration-300">
-              🚀 AI-Powered Educational Revolution
+              AI-Powered Educational Revolution
             </div>
 
             {/* Main Heading */}
@@ -245,7 +245,7 @@ export default function Landing() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
             <div className="inline-block mb-4 glass rounded-full px-4 py-2 text-red-300 hover:bg-red-500/30 border border-red-500/30 hover-scale">
-              🚨 The Manual Assessment Crisis
+              The Manual Assessment Crisis
             </div>
             <h2 className="text-4xl sm:text-5xl font-extrabold mb-6 bg-gradient-to-r from-white to-slate-300 bg-clip-text text-transparent">
               Why Traditional Exam Processing is Broken
@@ -386,7 +386,7 @@ export default function Landing() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
             <div className="inline-block mb-4 glass rounded-full px-4 py-2 text-primary hover:bg-primary/20 border border-primary/30 hover-scale">
-              📱 SaaS Platform for Schools & Coaching Centers
+              SaaS Platform for Schools & Coaching Centers
             </div>
             <h2 className="text-4xl font-bold text-slate-900 dark:text-slate-100 mb-4">
               Perfect for Offline Test Processing
